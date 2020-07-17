@@ -33,8 +33,7 @@ body{
     align-items: center;
     justify-content: center;
     max-width: 800px;
-    max-height: 800px;
-    height: 77vh;
+    height: 700px;
     background-color: #172241;
     margin: 50px auto;
 }
